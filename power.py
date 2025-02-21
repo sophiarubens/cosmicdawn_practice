@@ -1,7 +1,7 @@
 import numpy as np
 
 '''
-this module helps connect ensemble-averaged power spectrum estimates and cosmological brighness temperature boxes for two main use cases:
+this module helps connect ensemble-averaged power spectrum estimates and cosmological brightness temperature boxes for two main use cases:
 1. // forward direction: generate a power spectrum that describes the statistics of a brightness temperature box
 2. // backwards direction: generate one realization of a brightness temperature box consistent with a known power spectrum
 
